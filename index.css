@@ -1,0 +1,43 @@
+.diwalicard{
+    background-image: url("https://img.freepik.com/free-vector/decorative-happy-diwali-banner-with-hanging-lights-diya_1017-34335.jpg?w=2000");
+    background-size: cover;
+    height: 30vh;
+}
+.headfirst{
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    padding-top: 100px;
+}
+.diwalicardbottom{
+    background-color: #feffd1;
+    height: 80vh;
+}
+.imageres{
+    height: 80px;
+    width: 80px;
+}
+.hdiwalicard{
+    background-color: white;
+    width: 150px;
+    border-radius: 15px;
+    padding: 5px;
+    height: 145px;
+    margin: 10px;
+    text-align: center;
+}
+
+.hresize{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.diwalipara{
+    font-weight: bold;
+    font-size: 16px;
+}
+.center{
+    text-align: center;
+}
+.diwalicard:hover{
+    background-color: red;
+}
